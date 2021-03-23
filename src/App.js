@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.scss";
 
 function App() {
   return (
@@ -14,12 +14,16 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        ></a>
       </header>
+      <h1>Credibility without corporations</h1>
+      <div>
+        Vote with your dollars, and give underrated voices the visibility they
+        deserve.
+      </div>
     </div>
   );
 }
+x;
 
 export default App;
